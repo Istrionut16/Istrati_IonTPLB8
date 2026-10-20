@@ -1,1 +1,1 @@
-# Istrati_IonTPLB8
+Aici exersez git.
